@@ -2,7 +2,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #333333 url(images/images01.jpg) repeat-x left top;
+	background: #333333 url(images01.jpg) repeat-x left top;
 	text-align: justify;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
@@ -99,7 +99,7 @@ a:hover {
 	float: left;
 	width: 120px;
 	height: 34px;
-	background: url(images/images02.jpg) no-repeat right top; 
+	background: url(images02.jpg) no-repeat right top; 
 	margin: 0px 0px 0px 0px;
 	padding: 16px 0px 0px 0px;
 	letter-spacing: -1px;
@@ -211,7 +211,7 @@ a:hover {
 
 .box li a {
 	padding: 0px 0px 0px 12px;
-	background: url(images/images04.gif) no-repeat left 6px;
+	background: url(images04.gif) no-repeat left 6px;
 	color: #717171;
 }
 
