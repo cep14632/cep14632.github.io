@@ -99,7 +99,7 @@ a:hover {
 	float: left;
 	width: 120px;
 	height: 34px;
-	background: url(images02.jpg) no-repeat right top; 
+	background: src(images02.jpg) no-repeat right top; 
 	margin: 0px 0px 0px 0px;
 	padding: 16px 0px 0px 0px;
 	letter-spacing: -1px;
